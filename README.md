@@ -1,3 +1,9 @@
+![GitHub License](https://img.shields.io/github/license/mehdirexon/Nobitex-Crypto-Price-Extractor)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/mehdirexon/Nobitex-Crypto-Price-Extractor)
+![Static Badge](https://img.shields.io/badge/Website-mehdirexon.ir-purple?link=https://mehdirexon.ir)
+![GitHub last commit](https://img.shields.io/github/last-commit/mehdirexon/Nobitex-Crypto-Price-Extractor)
+
+
 # Nobitex Online Cryto Prices💰📈
 
 A python script 🐍 working with selenium library to scrape the prices of cryptos in real time 
@@ -51,6 +57,11 @@ Here are some features and goals I plan to implement in future versions:
 
 1. You have contact me with me in [telegram](https://t.me/mehdirexon).
 2. Have a PR on my repo.
+
+## Contributers
+<a href="https://github.com/mehdirexon/Nobitex-Crypto-Price-Extractor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mehdirexon/Nobitex-Crypto-Price-Extractor" />
+</a>
 
 ## License 📄
 
