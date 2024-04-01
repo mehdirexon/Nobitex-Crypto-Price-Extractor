@@ -55,7 +55,7 @@ Here are some features and goals I plan to implement in future versions:
 
 ## Contributing 🤝
 
-1. You have contact me with me in [telegram](https://t.me/mehdirexon).
+1. You can have contact with me in [telegram](https://t.me/mehdirexon).
 2. Have a PR on my repo.
 
 ## Contributers
