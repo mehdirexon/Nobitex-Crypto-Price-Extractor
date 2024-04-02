@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mehdirexon/Nobitex-Crypto-Price-Extractor)
 
 
-# Nobitex Online Cryto Prices💰📈
+# Nobitex Cryto Price Extractor💰📈
 
 A python script 🐍 working with selenium library to scrape the prices of cryptos in real time 
 
